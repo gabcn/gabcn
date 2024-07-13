@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabcn
 - 👀 I’m interested in CAE (Computer Aided Engineering) tools 
-- 🌱 I’m currently learning anything wich is usefull
-- 💞️ I’m looking to collaborate on the development of programs based on numerical methods to solve engeneering problems
+- 🌱 I’m currently learning anything useful
+- 💞️ I’m looking to collaborate on the development of programs based on numerical methods to solve engineering problems
 - 📫 How to reach me ...
 
 <!---
